@@ -35,13 +35,14 @@ Given the vehicle speed and simulation time tick Δt the travelled distance L pe
 |:--:| 
 | *Figure 1. Simple 2D vehicle steering physics* |
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Wx4s0svjlvE" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-*Video 1. Simple 2D vehicle steering physics in action*
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/Wx4s0svjlvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|:--:| 
+| *Video 1. Simple 2D vehicle steering physics in action* |
+
+| <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Wx4s0svjlvE/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/Wx4s0svjlvE?feature=player_embedded" width="320"></iframe></div> |
+|:--:| 
+| *Video 1. Simple 2D vehicle steering physics in action* |
 
 
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Wx4s0svjlvE/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/Wx4s0svjlvE?feature=player_embedded" width="320"></iframe></div>
+
