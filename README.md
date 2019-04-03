@@ -35,6 +35,8 @@ Given the vehicle speed and simulation time tick Δt the travelled distance L pe
 |:--:| 
 | *Figure 1. Simple 2D vehicle steering physics* |
 
+iframe width="560" height="315" src="http://www.youtube.com/embed/9bZkp7q19f0?rel=0" frameborder="0" allowfullscreen></iframe>
+
 | <iframe width="560" height="315" src="http://www.youtube.com/embed/9bZkp7q19f0?rel=0" frameborder="0" allowfullscreen></iframe> |
 |:--:| 
 | *Video 1. Simple 2D vehicle steering physics in action* |
