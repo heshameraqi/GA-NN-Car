@@ -31,10 +31,10 @@ Each vehicle represents a different chromosome in a generation (or a unique set 
 ### Simple 2D vehicle steering physics
 Given the vehicle speed and simulation time tick Δt the travelled distance L per a single time step is calculated. Given wheel base, vehicle position P, heading θ, and distance travelled per time step L, the new vehicle position Pnew and heading θnew are calculated as shown in figure 1. Video 1 shows a simulation result.
 
-| <img src="/_read_me_images/figure_1.png" height="200"> |
+| <img src="/_read_me_images/figure_1.png" height="150"> |
 |:--:| 
 | *Figure 1. Simple 2D vehicle steering physics* |
 
-| [![](http://img.youtube.com/vi/Wx4s0svjlvE/0.jpg)](http://www.youtube.com/watch?v=Wx4s0svjlvE "Video 1. Simple 2D vehicle steering physics in action") |
+| <a href="http://www.youtube.com/watch?v=Wx4s0svjlvE"><img src="http://img.youtube.com/vi/Wx4s0svjlvE/0.jpg" height="150"></a> |
 |:--:| 
 | *Video 1. Simple 2D vehicle steering physics in action* |
