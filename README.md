@@ -19,7 +19,7 @@ A MATLAB simple interactive Reinforcement Learning environment for Evolutionary 
   
 ## Description
 
-### Project Description :
+### Project Description
 This is a fully configurable MATLAB project that implements and provides simulation for vehicle self-learning of collision avoidance and navigation with a rangefinder sensor using an evolutionary artificial neural network. The neural network guides the vehicle around the environment and a genetic algorithm is used to pick and breed generations of more intelligent vehicles.
 The vehicle uses a rangefinder sensor that calculates N intersections depths with the environment and then feeds these N values as inputs to the neural network. The inputs are then passed through a neural network and finally to an output layer of 2 neurons: a left and right steering force. These forces are used to turn the vehicle by deciding the vehicle steering angle.
 Each vehicle represents a different chromosome in a generation (or a unique set weight for the neural net) which are evaluated and potentially carried through to the next generation by a fitness score. The fitness score has different definition in each of my three experiments for collision avoidance and navigation self-learning.
