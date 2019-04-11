@@ -2,7 +2,7 @@
 A MATLAB simple interactive Reinforcement Learning environment for Evolutionary Neural Network-based car with a proximity sensor
 
 ## Table of Contents
-- [int-end-to-end-ad](#int-end-to-end-ad)
+- [Paper Link](Paper-Link)
   * [Table of Contents](#table-of-contents)
   * [Notes](#notes)
   * [To-Do](#to-do)
