@@ -3,9 +3,13 @@ A MATLAB simple interactive Reinforcement Learning environment for Evolutionary 
 
 ## Table of Contents
 - [Paper Link](#Paper-Link)
-  * [Table of Contents](#table-of-contents)
-  * [Notes](#notes)
-  * [To-Do](#to-do)
+- [Description](#Description)
+  * [Project Description](#Project-Description)
+  * [Code Configurations](#Code-Configurations)
+  * [Simple 2D vehicle steering physics](#Simple-2D-vehicle-steering-physics)
+  * [Self-learning Navigation Experiment](#Self-learning-Navigation-Experiment)
+  * [Can vehicle learn route to a specific destination?](#Can-vehicle-learn-route-to-a-specific-destination?)
+  * [Self-learning Collision Avoidance Experiment](#Self-learning-Collision-Avoidance-Experiment)
 
 ## Paper Link
 - arXiv: https://arxiv.org/abs/1609.08414
